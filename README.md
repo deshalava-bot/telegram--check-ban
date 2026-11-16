@@ -1,0 +1,2 @@
+# telegram--check-ban
+qjsjs
